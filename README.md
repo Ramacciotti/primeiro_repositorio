@@ -1,1 +1,1 @@
-Meu primeiro repositório.
+Este projeto possui três arquivos, o index.html, o style.css e o README.md.

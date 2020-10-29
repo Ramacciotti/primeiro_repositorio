@@ -1,1 +1,1 @@
-Este projeto possui três arquivos, o index.html, o style.css e o README.md.
+Meu primeiro sistema no GIT (alterado e atualizado).
